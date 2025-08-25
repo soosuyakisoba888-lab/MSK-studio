@@ -1,11 +1,163 @@
 {
-	"Id" : "MSKhat",
-	"Name" : "マッサーカーのハット",
-	"Author" : "マッサーカー",
-	"Description" : "私の自作ハット達です。",
-	"Version" : "1.0",
-	"Build" : 0,
-	"Dependency" : [
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "7d27cfd01c11df686686d04c30ae174e",
+				"Address" : "aH04r0m1_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "3f1d2f4bbff777666f37b435b2dda9a9",
+				"Address" : "aH04r0m1_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "4662d1d8dd96f0c31402c5fb44c5b61b",
+				"Address" : "aH04r0m1_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "グロックのようなもの",
+			"Author" : "マッサーカー",
+			"Package" : "MSKhat",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2fbeea78b64d5c47770b340e5690a412",
+				"Address" : "JSiS_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f592ab8afaf5f82f190360ca0e13c97e",
+				"Address" : "JSiS_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "城壁",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "afe2bf4d1dc0cbeddd3c59978bf5ede9",
+				"Address" : "78f_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "9f12f26534da20472febe6fed62fd569",
+				"Address" : "78f_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "1t",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ae15a94f511f3b7140ab32bf5b251a16",
+				"Address" : "Rli6fgC0b_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "調査しに来ました！",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
 	],
-	"Hidden" : False
+	"Visors" : [
+		{
+			"Main" : {
+				"Hash" : "f5e112083717e2ea4b0213c09078a2b0",
+				"Address" : "dh4QlE5r_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "サングラス",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "33d009c25047434554a4548bc4933945",
+				"Address" : "lOp6Knw_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "きらーん",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "913eda5d9aec0a98de1ef1cee4284b5e",
+				"Address" : "EDvKguy6_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : ":thinking:",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "MSK studio",
+			"Format" : "MSK studio",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
 }
