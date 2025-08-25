@@ -1,10 +1,11 @@
 {
-    "namePlates": [
-    ],
-    "hats": [
-    ],
-    "visors": [
-    ],
-    "packages": [
-    ]
+	"Id" : "MSKhat",
+	"Name" : "マッサーカーのハット",
+	"Author" : "マッサーカー",
+	"Description" : "私の自作ハット達です。",
+	"Version" : "1.0",
+	"Build" : 0,
+	"Dependency" : [
+	],
+	"Hidden" : False
 }
