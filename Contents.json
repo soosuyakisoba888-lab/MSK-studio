@@ -2,38 +2,7 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Adaptive" : True,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"Main" : {
-				"Hash" : "7d27cfd01c11df686686d04c30ae174e",
-				"Address" : "aH04r0m1_Main.png",
-				"ExIsFront" : False
-			},
-			"Flip" : {
-				"Hash" : "3f1d2f4bbff777666f37b435b2dda9a9",
-				"Address" : "aH04r0m1_Flip.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "4662d1d8dd96f0c31402c5fb44c5b61b",
-				"Address" : "aH04r0m1_Climb.png",
-				"ExIsFront" : False
-			},
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "グロックのようなもの",
-			"Author" : "マッサーカー",
-			"Package" : "MSK studio",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
 			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "2fbeea78b64d5c47770b340e5690a412",
 				"Address" : "JSiS_Main.png",
@@ -44,6 +13,9 @@
 				"Address" : "JSiS_Climb.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "城壁",
@@ -54,9 +26,6 @@
 		},
 		{
 			"Adaptive" : True,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "afe2bf4d1dc0cbeddd3c59978bf5ede9",
 				"Address" : "78f_Main.png",
@@ -67,6 +36,9 @@
 				"Address" : "78f_Climb.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "1t",
@@ -77,17 +49,45 @@
 		},
 		{
 			"Adaptive" : True,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "ae15a94f511f3b7140ab32bf5b251a16",
 				"Address" : "Rli6fgC0b_Main.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "調査しに来ました！",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : True,
+			"Main" : {
+				"Hash" : "7d27cfd01c11df686686d04c30ae174e",
+				"Address" : "aH04r0m1_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "dc1eb8983771c9fb1acf416dfb044edd",
+				"Address" : "aH04r0m1_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "4662d1d8dd96f0c31402c5fb44c5b61b",
+				"Address" : "aH04r0m1_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "グロックのようなもの",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
