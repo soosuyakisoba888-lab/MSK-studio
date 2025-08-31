@@ -2,7 +2,6 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Adaptive" : False,
 			"Main" : {
 				"Hash" : "2fbeea78b64d5c47770b340e5690a412",
 				"Address" : "JSiS_Main.png",
@@ -14,6 +13,7 @@
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
+			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
@@ -25,7 +25,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : True,
 			"Main" : {
 				"Hash" : "afe2bf4d1dc0cbeddd3c59978bf5ede9",
 				"Address" : "78f_Main.png",
@@ -37,6 +36,7 @@
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
+			"Adaptive" : True,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
@@ -48,27 +48,26 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : True,
 			"Main" : {
 				"Hash" : "ae15a94f511f3b7140ab32bf5b251a16",
 				"Address" : "Rli6fgC0b_Main.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
+			"Adaptive" : True,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
-			"Name" : "調査しに来ました！",
+			"Name" : "調査します！",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : True,
 			"Main" : {
-				"Hash" : "7d27cfd01c11df686686d04c30ae174e",
+				"Hash" : "a351ef1aa9b38423559cb9fb638615a5",
 				"Address" : "aH04r0m1_Main.png",
 				"ExIsFront" : False
 			},
@@ -83,11 +82,30 @@
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
+			"Adaptive" : True,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "グロックのようなもの",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e842c8f460c121c03a0c80cc0f5bfcf0",
+				"Address" : "pcvIgTOAc_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "バーチャルコンピューター",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
