@@ -67,12 +67,12 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "a351ef1aa9b38423559cb9fb638615a5",
+				"Hash" : "7b3503296f0951d915b7305b1c22cc18",
 				"Address" : "aH04r0m1_Main.png",
 				"ExIsFront" : False
 			},
 			"Flip" : {
-				"Hash" : "dc1eb8983771c9fb1acf416dfb044edd",
+				"Hash" : "cfb6446ca68d879cde248610bec5d5a0",
 				"Address" : "aH04r0m1_Flip.png",
 				"ExIsFront" : False
 			},
@@ -88,24 +88,6 @@
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "グロックのようなもの",
-			"Author" : "マッサーカー",
-			"Package" : "MSK studio",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "e842c8f460c121c03a0c80cc0f5bfcf0",
-				"Address" : "pcvIgTOAc_Main.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "バーチャルコンピューター",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
@@ -159,6 +141,23 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : ":thinking:",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e842c8f460c121c03a0c80cc0f5bfcf0",
+				"Address" : "pcvIgTOAc_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "バーチャルコンピューター",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
