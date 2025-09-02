@@ -165,23 +165,6 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "084fedc71ecb1c547b7a55b0ed112b4c",
-				"Address" : "YQEJLIlPb_Main.png",
-				"ExIsFront" : False
-			},
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"FPS" : 1,
-			"Name" : "顔からビーム",
-			"Author" : "マッサーカー",
-			"Package" : "MSK studio",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
 				"Hash" : "33b3b7a2fbb069f251336ffce374e264",
 				"Address" : "Jd9MBf_Main.png",
 				"ExIsFront" : False
