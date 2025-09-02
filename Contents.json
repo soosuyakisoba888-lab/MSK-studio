@@ -96,14 +96,14 @@
 	],
 	"Visors" : [
 		{
-			"Main" : {
-				"Hash" : "f5e112083717e2ea4b0213c09078a2b0",
-				"Address" : "dh4QlE5r_Main.png",
-				"ExIsFront" : False
-			},
 			"Adaptive" : False,
 			"BehindHat" : False,
 			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "1046b7b8960acd6d2bae213dc81b6675",
+				"Address" : "dh4QlE5r_Main.png",
+				"ExIsFront" : False
+			},
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "サングラス",
@@ -113,14 +113,14 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "33d009c25047434554a4548bc4933945",
 				"Address" : "lOp6Knw_Main.png",
 				"ExIsFront" : False
 			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "きらーん",
@@ -130,14 +130,14 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "913eda5d9aec0a98de1ef1cee4284b5e",
 				"Address" : "EDvKguy6_Main.png",
 				"ExIsFront" : False
 			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : ":thinking:",
@@ -147,17 +147,73 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "e842c8f460c121c03a0c80cc0f5bfcf0",
 				"Address" : "pcvIgTOAc_Main.png",
 				"ExIsFront" : False
 			},
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "バーチャルコンピューター",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "084fedc71ecb1c547b7a55b0ed112b4c",
+				"Address" : "YQEJLIlPb_Main.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "顔からビーム",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "33b3b7a2fbb069f251336ffce374e264",
+				"Address" : "Jd9MBf_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f7e0ba833f4a292d950ab19d2d37d48d",
+				"Address" : "Jd9MBf_Climb.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "大忙し",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "7427b097007e47baa93241907d64d0d9",
+				"Address" : "4JuSYmw_Main.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "うるうる",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
