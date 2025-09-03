@@ -201,6 +201,40 @@
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "246f504ddfd2919cbcd0b6e2acd65c48",
+				"Address" : "pZOzXgkF_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ギザ歯ジト目",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "40dc161f6667fc5a8b56e4fd0b8e676a",
+				"Address" : "6uuP_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "驚愕",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Nameplates" : [
