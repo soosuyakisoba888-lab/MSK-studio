@@ -92,6 +92,29 @@
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c522584ab158c5b3cffb7350b9a989bf",
+				"Address" : "JIb0InPyb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "b043073b32786d85371dbb552dc9df11",
+				"Address" : "JIb0InPyb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "殴らないで;;",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
