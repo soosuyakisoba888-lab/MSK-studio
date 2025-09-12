@@ -115,6 +115,29 @@
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6da1ce4cc2b89d173dd3ed06eb6ce5f5",
+				"Address" : "szOR_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c2c0e9cc382d1e49b9df3b4587367083",
+				"Address" : "szOR_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "囚人",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
