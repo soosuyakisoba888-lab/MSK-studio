@@ -138,6 +138,42 @@
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "8587704c56ff985032e3670b420b8102",
+				"Address" : "6992jg_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "操縦席",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f793f7c7aa86cacfe8af7e4ca75cc5d0",
+				"Address" : "ln6LQcX3_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "本日の主役",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
