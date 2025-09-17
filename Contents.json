@@ -181,6 +181,11 @@
 				"Address" : "n8s7f1ss_Main.png",
 				"ExIsFront" : False
 			},
+            "Move": {
+                "Address": "n8s7f1ss_Main.png",
+                "Hash": "13bc81a2a40454322302148f6553ff23"
+				"Length": 6,
+            },
 			"Climb" : {
 				"Hash" : "bfcfa64da1fe011bd2619dc229a65b02",
 				"Address" : "n8s7f1ss_Climb.png",
@@ -191,7 +196,7 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"FPS" : 12,
 			"Name" : "パトランプ",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
