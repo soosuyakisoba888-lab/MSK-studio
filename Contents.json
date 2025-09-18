@@ -181,11 +181,6 @@
 				"Address" : "n8s7f1ss_Main.png",
 				"ExIsFront" : False
 			},
-            "Move": {
-                "Address": "n8s7f1ss_Main.png",
-                "Hash": "13bc81a2a40454322302148f6553ff23"
-				"Length": 6,
-            },
 			"Climb" : {
 				"Hash" : "bfcfa64da1fe011bd2619dc229a65b02",
 				"Address" : "n8s7f1ss_Climb.png",
@@ -196,8 +191,26 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 12,
+			"FPS" : 1,
 			"Name" : "パトランプ",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Move" : {
+				"Hash" : "13bc81a2a40454322302148f6553ff23",
+				"Address" : "63vX552Mb_Move.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "パトランプ1",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
