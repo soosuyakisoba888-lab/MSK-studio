@@ -179,13 +179,11 @@
 			"Main" : {
 				"Hash" : "13bc81a2a40454322302148f6553ff23",
 				"Address" : "n8s7f1ss_Main.png",
-				"ExIsFront" : False
 				"Length": 6,
 			},
 			"Climb" : {
 				"Hash" : "bfcfa64da1fe011bd2619dc229a65b02",
 				"Address" : "n8s7f1ss_Climb.png",
-				"ExIsFront" : False
 				"Length": 6,
 			},
 			"Bounce" : False,
