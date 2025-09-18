@@ -197,24 +197,6 @@
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
-		},
-		{
-			"Move" : {
-				"Hash" : "13bc81a2a40454322302148f6553ff23",
-				"Address" : "63vX552Mb_Move.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "パトランプ1",
-			"Author" : "マッサーカー",
-			"Package" : "MSK studio",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
