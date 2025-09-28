@@ -49,8 +49,8 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "ae15a94f511f3b7140ab32bf5b251a16",
-				"Address" : "Rli6fgC0b_Main.png",
+				"Hash" : "729c5083effa4f934d0b3d5fe227f478",
+				"Address" : "cNmsqqGyb_Main.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -67,7 +67,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "7b3503296f0951d915b7305b1c22cc18",
+				"Hash" : "76ffd77621e3955a46410cbc93e13212",
 				"Address" : "aH04r0m1_Main.png",
 				"ExIsFront" : False
 			},
@@ -179,12 +179,14 @@
 			"Main" : {
 				"Hash" : "13bc81a2a40454322302148f6553ff23",
 				"Address" : "n8s7f1ss_Main.png",
-				"Length": 6,
+				"ExIsFront" : False,
+				"Length" : 6
 			},
 			"Climb" : {
 				"Hash" : "bfcfa64da1fe011bd2619dc229a65b02",
 				"Address" : "n8s7f1ss_Climb.png",
-				"Length": 6,
+				"ExIsFront" : False,
+				"Length" : 6
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -253,7 +255,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "e842c8f460c121c03a0c80cc0f5bfcf0",
+				"Hash" : "58925aef0b13e5dd1cd1b9bba31b78d4",
 				"Address" : "pcvIgTOAc_Main.png",
 				"ExIsFront" : False
 			},
@@ -270,12 +272,12 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "33b3b7a2fbb069f251336ffce374e264",
+				"Hash" : "5b754759dec06415f96cdcdbe50040f8",
 				"Address" : "Jd9MBf_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
-				"Hash" : "f7e0ba833f4a292d950ab19d2d37d48d",
+				"Hash" : "78098d25bb1ccaead4fe8144445d1867",
 				"Address" : "Jd9MBf_Climb.png",
 				"ExIsFront" : False
 			},
