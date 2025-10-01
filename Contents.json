@@ -376,7 +376,7 @@
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
-		},
+		}
 	],
 	"Nameplates" : [
 	],
