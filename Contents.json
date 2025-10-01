@@ -355,16 +355,10 @@
 			"Main" : {
 				"Hash" : "6108bc222c829433ffd8652c1756d842",
 				"Address" : "VxLwMTHPb_Main.png",
-				"ExHash" : "ee2cba0fcd62bc5dc7547b329b686a7d",
-				"ExAddress" : "Hb0Z_Main.png",
-				"ExIsFront" : True
 			},
 			"Move" : {
 				"Hash" : "bd74fdf034709ec13413ee2cbc3d533a",
 				"Address" : "VxLwMTHPb_Move.png",
-				"ExHash" : "b9d6e6831fc5ce88f1c51a47fdd59469",
-				"ExAddress" : "Hb0Z_Move.png",
-				"ExIsFront" : True
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
