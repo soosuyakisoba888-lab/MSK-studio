@@ -364,13 +364,14 @@
 				"Address" : "VxLwMTHPb_Move.png",
 				"ExHash" : "b9d6e6831fc5ce88f1c51a47fdd59469",
 				"ExAddress" : "XhhB7c_Move.png",
-				"ExIsFront" : True
+				"ExIsFront" : True,
+				"Length" : 6
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
+			"FPS" : 12,
 			"Name" : "ひじきボール",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
