@@ -362,10 +362,10 @@
 			"Move" : {
 				"Hash" : "bd74fdf034709ec13413ee2cbc3d533a",
 				"Address" : "VxLwMTHPb_Move.png",
+				"Length" : 6,
 				"ExHash" : "b9d6e6831fc5ce88f1c51a47fdd59469",
 				"ExAddress" : "XhhB7c_Move.png",
-				"ExIsFront" : True,
-				"Length" : 6
+				"ExIsFront" : True
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
