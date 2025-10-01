@@ -51,9 +51,9 @@
 			"Main" : {
 				"Hash" : "729c5083effa4f934d0b3d5fe227f478",
 				"Address" : "cNmsqqGyb_Main.png",
-				"ExAddress":"haIlb_Main.png",
-                "ExHash":"51faaf4162787a2d83049b1a99085794",
-                "ExIsFront" :True,
+				"ExHash" : "51faaf4162787a2d83049b1a99085794",
+				"ExAddress" : "haIlb_Main.png",
+				"ExIsFront" : True
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
@@ -71,9 +71,9 @@
 			"Main" : {
 				"Hash" : "76ffd77621e3955a46410cbc93e13212",
 				"Address" : "aH04r0m1_Main.png",
-				"ExAddress":"yfmfb_Main.png",
-                "ExHash":"6c08996c91de5ce482632bc964839cb9",
-                "ExIsFront" :True,
+				"ExHash" : "6c08996c91de5ce482632bc964839cb9",
+				"ExAddress" : "yfmfb_Main.png",
+				"ExIsFront" : True
 			},
 			"Flip" : {
 				"Hash" : "cfb6446ca68d879cde248610bec5d5a0",
@@ -278,16 +278,16 @@
 			"Main" : {
 				"Hash" : "5b754759dec06415f96cdcdbe50040f8",
 				"Address" : "Jd9MBf_Main.png",
-				"ExAddress":"dxblb_Main.png",
-                "ExHash":"354d25354b2bf4bdcf6c3d0eb953057c",
-                "ExIsFront" :True,
+				"ExHash" : "354d25354b2bf4bdcf6c3d0eb953057c",
+				"ExAddress" : "dxblb_Main.png",
+				"ExIsFront" : True
 			},
 			"Climb" : {
 				"Hash" : "78098d25bb1ccaead4fe8144445d1867",
 				"Address" : "Jd9MBf_Climb.png",
-				"ExAddress":"dxblb_Climb.png",
-                "ExHash":"c234ad90daa85d6a6b74319854ddc5cb",
-                "ExIsFront" :True,
+				"ExHash" : "c234ad90daa85d6a6b74319854ddc5cb",
+				"ExAddress" : "dxblb_Climb.png",
+				"ExIsFront" : True
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
@@ -346,6 +346,50 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "驚愕",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6108bc222c829433ffd8652c1756d842",
+				"Address" : "VxLwMTHPb_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "bd74fdf034709ec13413ee2cbc3d533a",
+				"Address" : "VxLwMTHPb_Move.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ひじきボール",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ee2cba0fcd62bc5dc7547b329b686a7d",
+				"Address" : "Hb0Z_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "b9d6e6831fc5ce88f1c51a47fdd59469",
+				"Address" : "Hb0Z_Move.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "本体",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
