@@ -258,6 +258,13 @@
 				"ExAddress" : "vmPQC48_Main.png",
 				"ExIsFront" : True
 			},
+			"Climb" : {
+				"Hash" : "4a95c12ad17d63930fa058024bef4c28",
+				"Address" : "0Qm0AHudc_Climb.png",
+				"ExHash" : "342ae85a1e83c7d71d2f63363381e4da",
+				"ExAddress" : "2bSatz2nc_Climb.png",
+				"ExIsFront" : True
+			},
 			"OnButton" : {
 				"Name" : "バスケットボール",
 				"Author" : "マッサーカー"
