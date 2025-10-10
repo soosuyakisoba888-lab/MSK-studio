@@ -51,9 +51,9 @@
 			"Main" : {
 				"Hash" : "729c5083effa4f934d0b3d5fe227f478",
 				"Address" : "cNmsqqGyb_Main.png",
-				"ExAddress":"haIlb_Main.png",
-                "ExHash":"51faaf4162787a2d83049b1a99085794",
-                "ExIsFront" :True,
+				"ExHash" : "51faaf4162787a2d83049b1a99085794",
+				"ExAddress" : "haIlb_Main.png",
+				"ExIsFront" : True
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
@@ -71,9 +71,9 @@
 			"Main" : {
 				"Hash" : "76ffd77621e3955a46410cbc93e13212",
 				"Address" : "aH04r0m1_Main.png",
-				"ExAddress":"yfmfb_Main.png",
-                "ExHash":"6c08996c91de5ce482632bc964839cb9",
-                "ExIsFront" :True,
+				"ExHash" : "6c08996c91de5ce482632bc964839cb9",
+				"ExAddress" : "yfmfb_Main.png",
+				"ExIsFront" : True
 			},
 			"Flip" : {
 				"Hash" : "cfb6446ca68d879cde248610bec5d5a0",
@@ -203,6 +203,108 @@
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6108bc222c829433ffd8652c1756d842",
+				"Address" : "0Qm0AHudc_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
+				"Address" : "0Qm0AHudc_Move.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "4a95c12ad17d63930fa058024bef4c28",
+				"Address" : "0Qm0AHudc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
+				"Address" : "0Qm0AHudc_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "バスケットボール",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "3f5f9f02fa10978fd071f879e30b36f5",
+				"Address" : "2bSatz2nc_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "ca05535d262c1e247a33161b8f3ce1d7",
+				"Address" : "2bSatz2nc_Move.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "342ae85a1e83c7d71d2f63363381e4da",
+				"Address" : "2bSatz2nc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "ca05535d262c1e247a33161b8f3ce1d7",
+				"Address" : "2bSatz2nc_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "バスケットボールのボール",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6ae7676954d9fe7149779e343c2d9efa",
+				"Address" : "Sl5witBL_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "バスケットボールスピン",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c1ce05b4e29b19658c9f89ad1981c7d6",
+				"Address" : "vmPQC48_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "バスケットボールスピンのボール",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -278,16 +380,16 @@
 			"Main" : {
 				"Hash" : "5b754759dec06415f96cdcdbe50040f8",
 				"Address" : "Jd9MBf_Main.png",
-				"ExAddress":"dxblb_Main.png",
-                "ExHash":"354d25354b2bf4bdcf6c3d0eb953057c",
-                "ExIsFront" :True,
+				"ExHash" : "354d25354b2bf4bdcf6c3d0eb953057c",
+				"ExAddress" : "dxblb_Main.png",
+				"ExIsFront" : True
 			},
 			"Climb" : {
 				"Hash" : "78098d25bb1ccaead4fe8144445d1867",
 				"Address" : "Jd9MBf_Climb.png",
-				"ExAddress":"dxblb_Climb.png",
-                "ExHash":"c234ad90daa85d6a6b74319854ddc5cb",
-                "ExIsFront" :True,
+				"ExHash" : "c234ad90daa85d6a6b74319854ddc5cb",
+				"ExAddress" : "dxblb_Climb.png",
+				"ExIsFront" : True
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
