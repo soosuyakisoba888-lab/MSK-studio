@@ -215,7 +215,7 @@
 			"Move" : {
 				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
 				"Address" : "0Qm0AHudc_Move.png",
-				"Length" : 6,
+                "Length" : 6,
 				"ExHash" : "ca05535d262c1e247a33161b8f3ce1d7",
 				"ExAddress" : "2bSatz2nc_Move.png",
 				"ExIsFront" : True
@@ -230,7 +230,7 @@
 			"Preview" : {
 				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
 				"Address" : "0Qm0AHudc_Preview.png",
-				"Length" : 6,
+                "Length" : 6,
 				"ExHash" : "ca05535d262c1e247a33161b8f3ce1d7",
 				"ExAddress" : "2bSatz2nc_Preview.png",
 				"ExIsFront" : True
@@ -255,7 +255,7 @@
 			"Main" : {
 				"Hash" : "57634ec4087caa3ebf180ba26bd946d5",
 				"Address" : "Sl5witBL_Main.png",
-				"Length" : 4,
+                "Length" : 4,
 				"ExHash" : "c1ce05b4e29b19658c9f89ad1981c7d6",
 				"ExAddress" : "vmPQC48_Main.png",
 				"ExIsFront" : True
