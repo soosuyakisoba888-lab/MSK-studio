@@ -215,9 +215,9 @@
 			"Move" : {
 				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
 				"Address" : "0Qm0AHudc_Move.png",
+				"Lengh" : 6,
 				"ExHash" : "ca05535d262c1e247a33161b8f3ce1d7",
 				"ExAddress" : "2bSatz2nc_Move.png",
-				"Lengh" : 6,
 				"ExIsFront" : True
 			},
 			"Climb" : {
@@ -230,9 +230,9 @@
 			"Preview" : {
 				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
 				"Address" : "0Qm0AHudc_Preview.png",
+				"Lengh" : 6,
 				"ExHash" : "ca05535d262c1e247a33161b8f3ce1d7",
 				"ExAddress" : "2bSatz2nc_Preview.png",
-				"Lengh" : 6,
 				"ExIsFront" : True
 			},
 			"OnButton" : {
