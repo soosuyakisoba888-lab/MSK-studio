@@ -272,7 +272,7 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 40,
+			"FPS" : 80,
 			"Name" : "バスケットボールスピン",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
