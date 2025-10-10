@@ -208,63 +208,44 @@
 			"Main" : {
 				"Hash" : "6108bc222c829433ffd8652c1756d842",
 				"Address" : "0Qm0AHudc_Main.png",
-				"ExIsFront" : False
+				"ExHash" : "3f5f9f02fa10978fd071f879e30b36f5",
+				"ExAddress" : "2bSatz2nc_Main.png",
+				"ExIsFront" : True
 			},
 			"Move" : {
 				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
 				"Address" : "0Qm0AHudc_Move.png",
-				"ExIsFront" : False
+				"ExHash" : "ca05535d262c1e247a33161b8f3ce1d7",
+				"ExAddress" : "2bSatz2nc_Move.png",
+				"Lengh" : 6,
+				"ExIsFront" : True
 			},
 			"Climb" : {
 				"Hash" : "4a95c12ad17d63930fa058024bef4c28",
 				"Address" : "0Qm0AHudc_Climb.png",
-				"ExIsFront" : False
+				"ExHash" : "342ae85a1e83c7d71d2f63363381e4da",
+				"ExAddress" : "2bSatz2nc_Climb.png",
+				"ExIsFront" : True
 			},
 			"Preview" : {
 				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
 				"Address" : "0Qm0AHudc_Preview.png",
-				"ExIsFront" : False
+				"ExHash" : "ca05535d262c1e247a33161b8f3ce1d7",
+				"ExAddress" : "2bSatz2nc_Preview.png",
+				"Lengh" : 6,
+				"ExIsFront" : True
+			},
+			"OnButton" : {
+				"Author" : "マッサーカー",
+				"Name" : "バスケットボールスピン"
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"FPS" : 12,
 			"Name" : "バスケットボール",
-			"Author" : "マッサーカー",
-			"Package" : "MSK studio",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "3f5f9f02fa10978fd071f879e30b36f5",
-				"Address" : "2bSatz2nc_Main.png",
-				"ExIsFront" : False
-			},
-			"Move" : {
-				"Hash" : "ca05535d262c1e247a33161b8f3ce1d7",
-				"Address" : "2bSatz2nc_Move.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "342ae85a1e83c7d71d2f63363381e4da",
-				"Address" : "2bSatz2nc_Climb.png",
-				"ExIsFront" : False
-			},
-			"Preview" : {
-				"Hash" : "ca05535d262c1e247a33161b8f3ce1d7",
-				"Address" : "2bSatz2nc_Preview.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "バスケットボールのボール",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
@@ -274,37 +255,23 @@
 			"Main" : {
 				"Hash" : "6ae7676954d9fe7149779e343c2d9efa",
 				"Address" : "Sl5witBL_Main.png",
-				"ExIsFront" : False
+				"ExHash" : "c1ce05b4e29b19658c9f89ad1981c7d6",
+				"ExAddress" : "vmPQC48_Main.png",
+				"Lengh" : 4,
+				"ExIsFront" : True
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"FPS" : 8,
 			"Name" : "バスケットボールスピン",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "c1ce05b4e29b19658c9f89ad1981c7d6",
-				"Address" : "vmPQC48_Main.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "バスケットボールスピンのボール",
-			"Author" : "マッサーカー",
-			"Package" : "MSK studio",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
+			"IsLocalizable" : True,
+			"IsHidden" : True
 		}
 	],
 	"Visors" : [
