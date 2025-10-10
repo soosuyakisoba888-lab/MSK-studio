@@ -215,10 +215,10 @@
 			"Move" : {
 				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
 				"Address" : "0Qm0AHudc_Move.png",
-                "Length" : 6,
 				"ExHash" : "ca05535d262c1e247a33161b8f3ce1d7",
 				"ExAddress" : "2bSatz2nc_Move.png",
-				"ExIsFront" : True
+				"ExIsFront" : True,
+				"Length" : 6
 			},
 			"Climb" : {
 				"Hash" : "4a95c12ad17d63930fa058024bef4c28",
@@ -230,14 +230,10 @@
 			"Preview" : {
 				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
 				"Address" : "0Qm0AHudc_Preview.png",
-                "Length" : 6,
 				"ExHash" : "ca05535d262c1e247a33161b8f3ce1d7",
 				"ExAddress" : "2bSatz2nc_Preview.png",
-				"ExIsFront" : True
-			},
-			"OnButton" : {
-				"Name" : "バスケットボールスピン",
-				"Author" : "マッサーカー"
+				"ExIsFront" : True,
+				"Length" : 6
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
@@ -248,6 +244,10 @@
 			"Name" : "バスケットボール",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
+			"OnButton" : {
+				"Name" : "バスケットボールスピン",
+				"Author" : "マッサーカー"
+			},
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -255,10 +255,10 @@
 			"Main" : {
 				"Hash" : "57634ec4087caa3ebf180ba26bd946d5",
 				"Address" : "Sl5witBL_Main.png",
-                "Length" : 4,
 				"ExHash" : "c1ce05b4e29b19658c9f89ad1981c7d6",
 				"ExAddress" : "vmPQC48_Main.png",
-				"ExIsFront" : True
+				"ExIsFront" : True,
+				"Length" : 4
 			},
 			"Climb" : {
 				"Hash" : "4a95c12ad17d63930fa058024bef4c28",
@@ -266,10 +266,6 @@
 				"ExHash" : "342ae85a1e83c7d71d2f63363381e4da",
 				"ExAddress" : "2bSatz2nc_Climb.png",
 				"ExIsFront" : True
-			},
-			"OnButton" : {
-				"Name" : "バスケットボール",
-				"Author" : "マッサーカー"
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
@@ -281,6 +277,10 @@
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsHidden" : True,
+			"OnButton" : {
+				"Name" : "バスケットボール",
+				"Author" : "マッサーカー"
+			},
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
@@ -428,87 +428,6 @@
 			"Name" : "驚愕",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		
-		{
-			"Main" : {
-				"Hash" : "6108bc222c829433ffd8652c1756d842",
-				"Address" : "0Qm0AHudc_Main.png",
-				"ExHash" : "3f5f9f02fa10978fd071f879e30b36f5",
-				"ExAddress" : "2bSatz2nc_Main.png",
-				"ExIsFront" : True
-			},
-			"Move" : {
-				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
-				"Address" : "0Qm0AHudc_Move.png",
-                "Length" : 6,
-				"ExHash" : "ca05535d262c1e247a33161b8f3ce1d7",
-				"ExAddress" : "2bSatz2nc_Move.png",
-				"ExIsFront" : True
-			},
-			"Climb" : {
-				"Hash" : "4a95c12ad17d63930fa058024bef4c28",
-				"Address" : "0Qm0AHudc_Climb.png",
-				"ExHash" : "342ae85a1e83c7d71d2f63363381e4da",
-				"ExAddress" : "2bSatz2nc_Climb.png",
-				"ExIsFront" : True
-			},
-			"Preview" : {
-				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
-				"Address" : "0Qm0AHudc_Preview.png",
-                "Length" : 6,
-				"ExHash" : "ca05535d262c1e247a33161b8f3ce1d7",
-				"ExAddress" : "2bSatz2nc_Preview.png",
-				"ExIsFront" : True
-			},
-			"OnButton" : {
-				"Name" : "バスケットボールスピン",
-				"Author" : "マッサーカー"
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 12,
-			"Name" : "バスケットボール",
-			"Author" : "マッサーカー",
-			"Package" : "MSK studio",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "57634ec4087caa3ebf180ba26bd946d5",
-				"Address" : "Sl5witBL_Main.png",
-                "Length" : 4,
-				"ExHash" : "c1ce05b4e29b19658c9f89ad1981c7d6",
-				"ExAddress" : "vmPQC48_Main.png",
-				"ExIsFront" : True
-			},
-			"Climb" : {
-				"Hash" : "4a95c12ad17d63930fa058024bef4c28",
-				"Address" : "0Qm0AHudc_Climb.png",
-				"ExHash" : "342ae85a1e83c7d71d2f63363381e4da",
-				"ExAddress" : "2bSatz2nc_Climb.png",
-				"ExIsFront" : True
-			},
-			"OnButton" : {
-				"Name" : "バスケットボール",
-				"Author" : "マッサーカー"
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 12,
-			"Name" : "バスケットボールスピン",
-			"Author" : "マッサーカー",
-			"Package" : "MSK studio",
-			"IsHidden" : True,
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
