@@ -206,10 +206,10 @@
 		},
 		{
 			"Move" : {
-				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
-				"Address" : "0Qm0AHudc_Move.png",
-				"ExHash" : "ca05535d262c1e247a33161b8f3ce1d7",
-				"ExAddress" : "2bSatz2nc_Move.png",
+				"Hash" : "ae68f0327ba396e471b68fe9d589c861",
+				"Address" : "iuu9uoMl_Move.png",
+				"ExHash" : "660beb1cbc946c521b64bcda15574650",
+				"ExAddress" : "fhF92hFvc_Move.png",
 				"ExIsFront" : True,
 				"Length" : 6
 			},
@@ -228,10 +228,10 @@
 				"ExIsFront" : True
 			},
 			"Preview" : {
-				"Hash" : "0e499aa8838fc3fe7facf57126425cd7",
-				"Address" : "0Qm0AHudc_Preview.png",
-				"ExHash" : "ca05535d262c1e247a33161b8f3ce1d7",
-				"ExAddress" : "2bSatz2nc_Preview.png",
+				"Hash" : "ae68f0327ba396e471b68fe9d589c861",
+				"Address" : "iuu9uoMl_Move.png",
+				"ExHash" : "660beb1cbc946c521b64bcda15574650",
+				"ExAddress" : "fhF92hFvc_Move.png",
 				"ExIsFront" : True,
 				"Length" : 6
 			},
@@ -281,42 +281,6 @@
 				"Name" : "バスケットボール",
 				"Author" : "マッサーカー"
 			},
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Move" : {
-				"Hash" : "ae68f0327ba396e471b68fe9d589c861",
-				"Address" : "iuu9uoMl_Move.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "basketball",
-			"Author" : "マッサーカー",
-			"Package" : "MSK studio",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Move" : {
-				"Hash" : "660beb1cbc946c521b64bcda15574650",
-				"Address" : "fhF92hFvc_Move.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "basketball2",
-			"Author" : "マッサーカー",
-			"Package" : "MSK studio",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
