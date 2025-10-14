@@ -244,6 +244,7 @@
 			"Name" : "バスケットボール",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
+			"IsHidden" : True,
 			"OnButton" : {
 				"Name" : "バスケットボールスピン",
 				"Author" : "マッサーカー"
@@ -273,10 +274,9 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 24,
-			"Name" : "バスケットボールスピン",
+			"Name" : "バスケットボールスピンとドリブル",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
-			"IsHidden" : True,
 			"OnButton" : {
 				"Name" : "バスケットボール",
 				"Author" : "マッサーカー"
