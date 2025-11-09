@@ -440,13 +440,13 @@
 			"Move" : {
 				"Hash" : "765a82260f5a7131858b4729dc8c5e21",
 				"Address" : "Fo1wjHYab_Move.png",
-				"ExIsFront" : False
+				"Length" : 15
 			},
 			"Adaptive" : False,
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
+			"FPS" : 18,
 			"Name" : "sun_grass",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
