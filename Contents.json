@@ -450,6 +450,7 @@
 			"Name" : "sun_grass",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
+			"IsHidden" : True,
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
