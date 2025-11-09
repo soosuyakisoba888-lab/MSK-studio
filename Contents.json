@@ -205,6 +205,13 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Main" : {
+				"Hash" : "6108bc222c829433ffd8652c1756d842",
+				"Address" : "0Qm0AHudc_Main.png",
+				"ExHash" : "3f5f9f02fa10978fd071f879e30b36f5",
+				"ExAddress" : "2bSatz2nc_Main.png",
+				"ExIsFront" : True
+			},
 			"Move" : {
 				"Hash" : "ae68f0327ba396e471b68fe9d589c861",
 				"Address" : "iuu9uoMl_Move.png",
@@ -212,13 +219,6 @@
 				"ExAddress" : "fhF92hFvc_Move.png",
 				"ExIsFront" : True,
 				"Length" : 6
-			},
-			"Main" : {
-				"Hash" : "6108bc222c829433ffd8652c1756d842",
-				"Address" : "0Qm0AHudc_Main.png",
-				"ExHash" : "3f5f9f02fa10978fd071f879e30b36f5",
-				"ExAddress" : "2bSatz2nc_Main.png",
-				"ExIsFront" : True
 			},
 			"Climb" : {
 				"Hash" : "4a95c12ad17d63930fa058024bef4c28",
@@ -244,7 +244,6 @@
 			"Name" : "バスケットボール",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
-			"IsHidden" : True,
 			"OnButton" : {
 				"Name" : "バスケットボールスピン",
 				"Author" : "マッサーカー"
@@ -274,9 +273,10 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 24,
-			"Name" : "バスケットボールスピンとドリブル",
+			"Name" : "バスケットボールスピン",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
+			"IsHidden" : True,
 			"OnButton" : {
 				"Name" : "バスケットボール",
 				"Author" : "マッサーカー"
@@ -426,6 +426,28 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "驚愕",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1046b7b8960acd6d2bae213dc81b6675",
+				"Address" : "Fo1wjHYab_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "765a82260f5a7131858b4729dc8c5e21",
+				"Address" : "Fo1wjHYab_Move.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "sun_grass",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
