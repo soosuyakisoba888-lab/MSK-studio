@@ -320,7 +320,7 @@
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
-			"FPS" : 12,
+			"FPS" : 16,
 			"IsLocalizable" : True
 		}
 	],
