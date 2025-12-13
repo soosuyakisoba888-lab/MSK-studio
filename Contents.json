@@ -18,11 +18,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "城壁",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -42,11 +42,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "1t",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -63,11 +63,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "調査します！",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -94,11 +94,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "頼りになる拳銃",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -118,11 +118,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "殴らないで;;",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -142,11 +142,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "囚人",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -161,11 +161,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "操縦席",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -180,11 +180,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 1,
 			"Name" : "本日の主役",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -206,11 +206,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 12,
 			"Name" : "パトランプ",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 12,
 			"IsLocalizable" : True
 		},
 		{
@@ -250,7 +250,6 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 12,
 			"Name" : "バスケットボール",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
@@ -259,6 +258,7 @@
 				"Author" : "マッサーカー"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 12,
 			"IsLocalizable" : True
 		},
 		{
@@ -283,7 +283,6 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"FPS" : 24,
 			"Name" : "バスケットボールスピン",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
@@ -293,6 +292,55 @@
 				"Author" : "マッサーカー"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 24,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0c9c2d269592005ca7e9e03cc93ff42b",
+				"Address" : "eyjtezw_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "6fddffd614fc770d4bd78eff84e41d12",
+				"Address" : "eyjtezw_Move.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "ゴリラ\?",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d4f1b0337ec0b506a1fb987b2baca356",
+				"Address" : "6Fjn1Cic_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "d37786c4ed1791307b11bb47c3d29b38",
+				"Address" : "6Fjn1Cic_Move.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "ゴリラ\(Mask\)",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
@@ -307,11 +355,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "サングラス",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -324,11 +372,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "きらーん",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -341,11 +389,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : ":thinking:",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -358,11 +406,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "バーチャルコンピューター",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -384,11 +432,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "大忙し",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -401,11 +449,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "うるうる",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -418,11 +466,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ギザ歯ジト目",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -435,11 +483,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "驚愕",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -458,12 +506,12 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 30,
 			"Name" : "sun_grass",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsHidden" : True,
 			"IsUnlockable" : False,
+			"FPS" : 30,
 			"IsLocalizable" : True
 		},
 		{
@@ -493,7 +541,6 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 12,
 			"Name" : "バスケットボール'",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
@@ -502,6 +549,7 @@
 				"Author" : "マッサーカー"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 12,
 			"IsLocalizable" : True
 		},
 		{
@@ -524,7 +572,6 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 24,
 			"Name" : "バスケットボールスピン'",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
@@ -534,6 +581,7 @@
 				"Author" : "マッサーカー"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 24,
 			"IsLocalizable" : True
 		}
 	],
