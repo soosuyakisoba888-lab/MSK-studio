@@ -299,12 +299,16 @@
 			"Main" : {
 				"Hash" : "0c9c2d269592005ca7e9e03cc93ff42b",
 				"Address" : "eyjtezw_Main.png",
+				"MaskHash" : "d4f1b0337ec0b506a1fb987b2baca356",
+				"MaskAddress" : "6Fjn1Cic_Main.png",
 				"ExIsFront" : False
 			},
 			"Move" : {
 				"Hash" : "6fddffd614fc770d4bd78eff84e41d12",
 				"Address" : "eyjtezw_Move.png",
-				"ExIsFront" : False
+				"MaskHash" : "d37786c4ed1791307b11bb47c3d29b38",
+				"MaskAddress" : "6Fjn1Cic_Move.png",
+				"Length" : 8
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
@@ -312,35 +316,11 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
-			"Name" : "ゴリラ\?",
+			"Name" : "ゴリラ？",
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "d4f1b0337ec0b506a1fb987b2baca356",
-				"Address" : "6Fjn1Cic_Main.png",
-				"ExIsFront" : False
-			},
-			"Move" : {
-				"Hash" : "d37786c4ed1791307b11bb47c3d29b38",
-				"Address" : "6Fjn1Cic_Move.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "ゴリラ\(Mask\)",
-			"Author" : "マッサーカー",
-			"Package" : "MSK studio",
-			"IsUnlockable" : False,
-			"FPS" : 1,
+			"FPS" : 32,
 			"IsLocalizable" : True
 		}
 	],
