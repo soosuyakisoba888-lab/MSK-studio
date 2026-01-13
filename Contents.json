@@ -299,13 +299,14 @@
 			"Main" : {
 				"Hash" : "0c9c2d269592005ca7e9e03cc93ff42b",
 				"Address" : "eyjtezw_Main.png",
+				"ExIsFront" : False,
 				"MaskHash" : "d4f1b0337ec0b506a1fb987b2baca356",
-				"MaskAddress" : "6Fjn1Cic_Main.png",
-				"ExIsFront" : False
+				"MaskAddress" : "6Fjn1Cic_Main.png"
 			},
 			"Move" : {
 				"Hash" : "6fddffd614fc770d4bd78eff84e41d12",
 				"Address" : "eyjtezw_Move.png",
+				"ExIsFront" : False,
 				"MaskHash" : "d37786c4ed1791307b11bb47c3d29b38",
 				"MaskAddress" : "6Fjn1Cic_Move.png",
 				"Length" : 8
@@ -321,6 +322,64 @@
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
 			"FPS" : 16,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "4bd9e7c89c02f512162a8f5f9d336eec",
+				"Address" : "IIpNwm_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "0323dc42fc2439dff2a0c2ed6986b3c7",
+				"Address" : "IIpNwm_Move.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "0323dc42fc2439dff2a0c2ed6986b3c7",
+				"Address" : "IIpNwm_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "oiia",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9ad31cf2ae456757a946f27a782f662d",
+				"Address" : "elO4HAszb_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "118b79781eeff7a9ca7eff21e46dbb5e",
+				"Address" : "elO4HAszb_Move.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "118b79781eeff7a9ca7eff21e46dbb5e",
+				"Address" : "elO4HAszb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "oiia_Mask",
+			"Author" : "マッサーカー",
+			"Package" : "MSK studio",
+			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
