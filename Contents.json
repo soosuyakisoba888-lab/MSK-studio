@@ -327,18 +327,26 @@
 		{
 			"Main" : {
 				"Hash" : "4bd9e7c89c02f512162a8f5f9d336eec",
+				"MaskHash" : "9ad31cf2ae456757a946f27a782f662d",
 				"Address" : "IIpNwm_Main.png",
+				"MaskAddress" : "elO4HAszb_Main.png",
 				"ExIsFront" : False
 			},
 			"Move" : {
 				"Hash" : "0323dc42fc2439dff2a0c2ed6986b3c7",
+				"MaskHash" : "118b79781eeff7a9ca7eff21e46dbb5e",
 				"Address" : "IIpNwm_Move.png",
-				"ExIsFront" : False
+				"MaskAddress" : "elO4HAszb_Move.png",
+				"ExIsFront" : False,
+				"Length" : 57
 			},
 			"Climb" : {
 				"Hash" : "0323dc42fc2439dff2a0c2ed6986b3c7",
+				"MaskHash" : "118b79781eeff7a9ca7eff21e46dbb5e",
 				"Address" : "IIpNwm_Climb.png",
-				"ExIsFront" : False
+				"MaskAddress" : "elO4HAszb_Climb.png",
+				"ExIsFront" : False,
+				"Length" : 57
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -350,36 +358,7 @@
 			"Author" : "マッサーカー",
 			"Package" : "MSK studio",
 			"IsUnlockable" : False,
-			"FPS" : 1,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "9ad31cf2ae456757a946f27a782f662d",
-				"Address" : "elO4HAszb_Main.png",
-				"ExIsFront" : False
-			},
-			"Move" : {
-				"Hash" : "118b79781eeff7a9ca7eff21e46dbb5e",
-				"Address" : "elO4HAszb_Move.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "118b79781eeff7a9ca7eff21e46dbb5e",
-				"Address" : "elO4HAszb_Climb.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"LongNeckCostume" : True,
-			"Name" : "oiia_Mask",
-			"Author" : "マッサーカー",
-			"Package" : "MSK studio",
-			"IsUnlockable" : False,
-			"FPS" : 1,
+			"FPS" : 31,
 			"IsLocalizable" : True
 		}
 	],
