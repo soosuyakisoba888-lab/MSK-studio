@@ -326,7 +326,7 @@
 		},
         {
             "Main" : {
-                "Hash" : "	4bd9e7c89c02f512162a8f5f9d336eec",
+                "Hash" : "4bd9e7c89c02f512162a8f5f9d336eec",
                 "MaskHash" : "9ad31cf2ae456757a946f27a782f662d",
                 "ExIsFront" : False,
                 "Address" : "oiia cat(正面静止画).png",
@@ -340,7 +340,7 @@
                 "MaskAddress" : "oiia cat(回転)Mask.png",
                 "X" : 10,
                 "Y" : 6,
-                "Length" : 5"
+                "Length" : 57
                 
             },
             "Climb" : {
@@ -351,7 +351,7 @@
                 "MaskAddress" : "oiia cat(回転)Mask.png",
                 "X" : 10,
                 "Y" : 6,
-                "Length" : 57"
+                "Length" : 57
             },
             "Bounce" : False,
             "Adaptive" : False,
