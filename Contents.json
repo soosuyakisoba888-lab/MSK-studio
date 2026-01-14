@@ -363,7 +363,8 @@
             "Name" : "oiia",
             "IsUnlockable" : False,
             "FPS" : 41,
-            "IsLocalizable" : True
+            "IsLocalizable" : True,
+			"IsHidden" : True
         }            
 
 	],
