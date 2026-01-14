@@ -323,7 +323,49 @@
 			"IsUnlockable" : False,
 			"FPS" : 16,
 			"IsLocalizable" : True
-		}
+		},
+        {
+            "Main" : {
+                "Hash" : "	4bd9e7c89c02f512162a8f5f9d336eec",
+                "MaskHash" : "9ad31cf2ae456757a946f27a782f662d",
+                "ExIsFront" : False,
+                "Address" : "oiia cat(正面静止画).png",
+                "MaskAddress" : "oiia cat(正面静止画)Mask.png"
+            },
+            "Move" : {
+                "Hash" : "73a457217a411aa8f7c3df60eb726394",
+                "MaskHash" : "aefd647cb51518f3e48031227555dce4",
+                "ExIsFront" : False,
+                "Address" : "oiia cat(回転).png",
+                "MaskAddress" : "oiia cat(回転)Mask.png",
+                "X" : 10,
+                "Y" : 6,
+                "Length" : 5"
+                
+            },
+            "Climb" : {
+                "Hash" : "73a457217a411aa8f7c3df60eb726394",
+                "MaskHash" : "aefd647cb51518f3e48031227555dce4",
+                "ExIsFront" : False,
+                "Address" : "oiia cat(回転).png",
+                "MaskAddress" : "oiia cat(回転)Mask.png",
+                "X" : 10,
+                "Y" : 6,
+                "Length" : 57"
+            },
+            "Bounce" : False,
+            "Adaptive" : False,
+            "IsSkinny" : False,
+            "SeekerCostume" : True,
+            "LongNeckCostume" : True,
+            "Author" : "マッサーカー",
+            "Package" : "MSK studio",
+            "Name" : "oiia",
+            "IsUnlockable" : False,
+            "FPS" : 41,
+            "IsLocalizable" : True
+        }            
+
 	],
 	"Visors" : [
 		{
