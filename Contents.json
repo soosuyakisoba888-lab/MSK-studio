@@ -345,10 +345,10 @@
             },
             "Climb" : {
                 "Hash" : "73a457217a411aa8f7c3df60eb726394",
-                "MaskHash" : "aefd647cb51518f3e48031227555dce4",
+                "MaskHash" : "dcf03fb0d21fd5104a630416ddb5471d",
                 "ExIsFront" : False,
                 "Address" : "oiia cat(回転).png",
-                "MaskAddress" : "oiia cat(回転)Mask.png",
+                "MaskAddress" : "oiia cat(回転)ClimbMask.png",
                 "X" : 10,
                 "Y" : 6,
                 "Length" : 57
