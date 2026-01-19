@@ -364,7 +364,6 @@
             "IsUnlockable" : False,
             "FPS" : 41,
             "IsLocalizable" : True,
-			"IsHidden" : True
         }            
 
 	],
